@@ -1,6 +1,7 @@
 import streamlit as st
 from forms.contact import contact_form
 
+st.markdown('[Azerbaijani Version](https://toghrul-nurushzade-resume-aze.streamlit.app/)', unsafe_allow_html=True)
 
 @st.experimental_dialog("Contact Me")
 def show_contact_form():
