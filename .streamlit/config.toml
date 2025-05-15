@@ -9,7 +9,7 @@ backgroundColor = "#abb2b9"
 secondaryBackgroundColor = "#95a5a6"
 
 # Color used for almost all text.
-textColor = "#34495e"
+textColor = "#243342"
 
 [client]
 toolbarMode = "minimal"
