@@ -26,7 +26,7 @@ st.write("\n")
 st.header("McZimmervermietung Gmbh", anchor=False)
 st.markdown('<p style="color: white;">Cologne, Germany</p>', unsafe_allow_html=True)
 st.subheader("IT Specialist", anchor=False)
-st.markdown('<p style="color: white;">December 2023 - January 2025</p>', unsafe_allow_html=True)
+st.markdown('<p style="color: white;">August 2020 - February 2021</p>', unsafe_allow_html=True)
 st.write("---")
 st.write(
     """
